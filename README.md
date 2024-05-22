@@ -6,41 +6,39 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/sakkke/catppuccin-tabby?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/sakkke/catppuccin-tabby?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/sakkke/catppuccin-tabby?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/tabby/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/tabby?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/tabby/issues"><img src="https://img.shields.io/github/issues/catppuccin/tabby?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/tabby/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/tabby?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="./assets/Preview.webp"/>
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/Latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/Frappé.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/Macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/Mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-1. Choose your flavour (_latte_, _frappe_, _macchiato_, _mocha_)
-2. Add the contents from _flavour_.yaml to `.terminal.customColorSchemes[]` in `~/.config/tabby/config.yaml`
-3. Open Tabby settings and focus on 'Color Scheme' section to change the current color scheme
-4. In Tabby settings, focus on 'Appearance' section to set 'Terminal background' to 'From color scheme'
-5. Enjoy!
+1. Copy the contents of your flavor of choice from [`themes/`](./themes/) to `.terminal.customColorSchemes[]` in your [Tabby configuration file](https://github.com/Eugeny/tabby/wiki/Config-file#location).
+2. Open Tabby settings and navigate to the _Color Scheme_ section to change the current color scheme.
+3. In the _Appearance_ section to set _Terminal background_ to _From color scheme_.
 
 ## 💝 Thanks to
 
